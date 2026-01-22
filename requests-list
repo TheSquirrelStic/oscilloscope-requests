@@ -8,23 +8,23 @@ Battle Clash
 
 @UltraNintendoChalmers64
 Diddy Kong Racing DS
-Wish Race (Snowflake Mountain)
+Wish Race (Snowflake Mountain) [TUNE_ICE_CLOUDS]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Shroobs!
+Shroobs! [MUS_SEQ_GEDONKO]
 
 @GloogaGuy
 Diddy Kong Racing DS
-Boss Race
+Boss Race [TUNE_BOSS]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Shroob Attack
+Shroob Attack [MUS_SEQ_FUANKAGE]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Hollijolli Village
+Hollijolli Village [MUS_SEQ_CHRISTAKE]
 
 @JeremyCardinal-tf5mn and @GrandNightConvoymare
 Pokémon FireRed and LeafGreen
@@ -32,11 +32,11 @@ Final Battle! (Rival)
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Bowser's Castle
+Bowser's Castle [MUS_SEQ_KUPACASTLE]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Toadwood Forest
+Toadwood Forest [MUS_SEQ_KINOPL]
 
 @juniorfe93
 The Legend of Zelda: The Minish Cap
@@ -44,11 +44,11 @@ Minish Woods
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Vim Factory
+Vim Factory [MUS_SEQ_FACTORY]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-The Yoshi Village
+The Yoshi Village [MUS_SEQ_YOSVILLAGE]
 
 @Silver-nw5kl
 Kuru Kuru Kururin
@@ -56,11 +56,11 @@ Kuru Kuru Kururin
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Koopaseum
+Koopaseum [MUS_SEQ_DOME]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Thwomp Caverns
+Thwomp Caverns [MUS_SEQ_DOSUN_IN]
 
 @JeremyCardinal-tf5mn
 Plok!
@@ -68,7 +68,7 @@ Creepy Crag
 
 @UltraNintendoChalmers64
 Mario & Luigi: Partners in Time
-Star Hill
+Star Hill [MUS_SEQ_STARHILL]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Superstar Saga
@@ -88,7 +88,7 @@ It's My Turn
 
 @JeremyCardinal-tf5mn
 Pokémon Black 2 and White 2
-Battle! (Wild Pokémon)
+Battle! (Wild Pokémon) [SEQ_BGM_VS_NORAPOKE]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Superstar Saga
@@ -104,31 +104,31 @@ Fawful Music
 
 @UltraNintendoChalmers64
 Mario & Luigi: Bowser's Inside Story
-Swirling Shadows
+Swirling Shadows [MUS_HUAN]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Bowser's Inside Story
-Battle Time!
+Battle Time! [MUS_LASTBOSS_APPR]
 
 @AhmedDabbech-u5s
 Super Mario 64 DS
-Ultimate Koopa Clear
+Ultimate Koopa Clear [NCS_BGM_KP3CLEAR]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Bowser's Inside Story
-Relaxing Again
+Relaxing Again [MUS_OCHITSUITE]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Bowser's Inside Story
-Big News!
+Big News! [MUS_SHOCK]
 
 @さいかゆうき-y6k
 Mario & Sonic at the Olympic Games (DS)
-Main Menu
+Main Menu [BGM02]
 
 @UltraNintendoChalmers64
 Mario & Luigi: Bowser's Inside Story
-Sweet Parting
+Sweet Parting [MUS_THEEND]
 
 @rachelfoster2789
 Mario & Luigi: Superstar Saga
@@ -136,7 +136,7 @@ Stardust Fields Area 64
 
 @HUNTING_THIEVES
 Contra 4
-Stage 1: Jungle
+Stage 1: Jungle [SEQ_JUNGLE_STAGE]
 
 @RocketLeaderLex
 Super Mario World
@@ -152,7 +152,7 @@ Winters White
 
 @РомаПодсадников
 Kirby: Canvas Curse
-Drawcia Sorceress
+Drawcia Sorceress [SEQ_MAJO1]
 
 @RocketLeaderLex
 Spyro 2: Season of Flame
@@ -184,7 +184,7 @@ Heating Wave
 
 @welcometojay
 Phoenix Wright: Ace Attorney - Justice for All (DS)
-Pursuit ~ Questioned
+Pursuit ~ Questioned [BGM074]
 
 @ゴルドリーフ
 Fantasy Zone II DX
@@ -196,7 +196,7 @@ Fly High
 
 @welcometojay
 Phoenix Wright: Ace Attorney - Trials and Tribulations (DS)
-Pursuit ~ Caught
+Pursuit ~ Caught [BGM123]
 
 @ゴルドリーフ
 Fantasy Zone II DX
@@ -207,20 +207,16 @@ Fantasy Zone II DX
 L or R
 
 @welcometojay
-Apollo Justice: Ace Attorney
-Pursuit ~ Overtaken
+Ace Attorney Investigations: Miles Edgeworth
+Pursuit ~ Lying Coldly [SEQ_BGM40]
 
 @welcometojay
-Ace Attorney Investigations: Miles Edgeworth
-Pursuit ~ Lying Coldly
+Ace Attorney Invesigations 2: Prosecutor's Gambit
+Pursuit ~ Reaching the Truth [seq_bgm13]
 
 @CoolTrainerWagners
 Plok!
 Cotton Island
-
-@welcometojay
-Ace Attorney Invesigations 2: Prosecutor's Gambit
-Pursuit ~ Reaching the Truth
 
 @InfinityMarch
 Super Mario RPG: Legend of the Seven Stars
